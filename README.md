@@ -4,9 +4,8 @@
 
 Explorations in software, design, and emerging technologies thru experiments 🧪.
 
-## 🎯 What We Build
+## We Build
 
 - **Prototypes** — Early-stage concepts and proof-of-concepts
-- **Experiments** — Exploratory work across different domains
+- **Experiments** — Exploratory work 
 - **Tools** — Utilities and frameworks that emerge from our explorations
-- **Research** — Technical investigations and learning projects
