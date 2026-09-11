@@ -7,5 +7,7 @@
     Explorations in software & design thru experiments ⚗
   </h3>
 
-  <p><code>🤖 Prototypes</code> &nbsp;&nbsp;·&nbsp;&nbsp; <code>🧪 Experiments</code> &nbsp;&nbsp;·&nbsp;&nbsp; <code>🔨 Tools</code></p>
+  <p>
+    <code>🤖 Prototypes</code> &nbsp;&nbsp;·&nbsp;&nbsp; <code>🧪 Experiments</code> &nbsp;&nbsp;·&nbsp;&nbsp; <code>🔨 Tools</code>
+  </p>
 </div>
