@@ -1,13 +1,13 @@
-# Mish Studio
+![Mish Studio - where ideas become experiments.](./assets/backdrop.png)
 
-> Experimental projects and creative prototypes.
+<!-- > Experimental projects and creative prototypes. -->
 
-Explorations in software, design, and emerging technologies thru experiments 🧪.
+<div align="center">
+  <h3>
+    Explorations in software & design thru experiments ⚗
+  </h3>
 
-## We Build
-
-🤖 **Prototypes** — Early-stage concepts and proof-of-concepts
-
-🧪 **Experiments** — Exploratory work 
-
-🛠 **Tools** — Utilities and frameworks that emerge from our explorations
+  <p>
+    <code>🤖 Prototypes</code> &nbsp;&nbsp;·&nbsp;&nbsp; <code>🧪 Experiments</code> &nbsp;&nbsp;·&nbsp;&nbsp; <code>🔨 Tools</code>
+  </p>
+</div>
